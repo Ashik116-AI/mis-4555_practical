@@ -13,7 +13,7 @@ h1 {
 h3{
     text-align: center;
 }
-.navbar ul{
+.navgibar ul{
     list-style-type: none;
     background-color: black;
     padding: 0px;
@@ -22,18 +22,15 @@ h3{
 }
 
 
-.navbar a{
+.navgibar a{
     color: aquamarine;
     text-decoration: none;
     padding: 15px;
     display: block;
     text-align: center;
 }    
-.navbar a{
 
-}
-
-.navbar li {
+.navgibar li {
     float: left;
 }
 img {
@@ -54,4 +51,3 @@ img {
 
 }
     
-}

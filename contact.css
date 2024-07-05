@@ -12,24 +12,24 @@ h1 {
 h3 {
     text-align: center;
 }
-.navbar ul {
+.navgibar ul {
     list-style-type: none;
     background-color: black;
     padding: 0px;
     margin: 0px;
     overflow: hidden;
 }
-.navbar a{
+.navgibar a{
     color:bisque;
     text-decoration: none;
     padding: 15px;
     display: block;
     text-align: center;
 }
-.navbar a:hover{
+.navgibar a:hover{
     background-color: black;
 }
-.navbar li{
+.navgibar li{
     float:left;
 }
 header {
