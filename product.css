@@ -1,0 +1,57 @@
+body {
+    margin: 0px;
+    background-color: rgb(125, 223, 14);
+}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
+h1 {
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+
+
+.navbar a{
+    color: aquamarine;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}    
+.navbar a{
+
+}
+
+.navbar li {
+    float: left;
+}
+img {
+    height: 400px;
+}
+.Rolex Watch p{
+    border: 3px solid rgb(223, 136, 14);
+    background-color: rgb(77, 143, 145);
+    box-shadow: 4px 6px 3px;
+    margin: 15px;
+    padding: 20px;
+    border-radius: 10px;
+    float: left;
+}
+.Patek Philippe p{
+    width: 200px;
+    height:400px;
+
+}
+    
+}
