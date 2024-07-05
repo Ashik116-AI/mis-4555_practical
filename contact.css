@@ -1,0 +1,67 @@
+body {
+    margin: 0px;
+    background-color: rgb(163, 170, 170);
+}
+main {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+h1 {
+    text-align: center;
+}
+h3 {
+    text-align: center;
+}
+.navbar ul {
+    list-style-type: none;
+    background-color: black;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color:bisque;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.navbar li{
+    float:left;
+}
+header {
+    font-family: "Roboto mono", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.black p{
+    font-family: "Roboto mono", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+.white p{
+    font-family: "Roboto mono", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+footer {
+    font-family: "Roboto mono", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+}
+div .black img {
+    display: flex;
+    float: left;
+    height: 300px;
+    width: 250px;
+}
+div .black1 img {
+    height: 300px;
+    width: 250px;
+}
+div blue1 {
+    float: right;
+}
